@@ -1,2 +1,0 @@
-'C:/Users/Marc/Desktop/Final/CrazyDriver/**' filter=lfs diff=lfs merge=lfs -text
-'CrazyDriver/**' filter=lfs diff=lfs merge=lfs -text
